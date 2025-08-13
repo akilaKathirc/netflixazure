@@ -164,24 +164,24 @@
 				"type": "array",
 				"defaultValue": [
 					{
-						"folder_name": "netflix_cast",
+						"folder_name": "netflixcast",
 						"file_name": "netflix_cast.csv"
 					},
 					{
-						"folder_name": "netflix_category",
+						"folder_name": "netflixcategory",
 						"file_name": "netflix_category.csv"
 					},
 					{
-						"folder_name": "netflix_countries",
+						"folder_name": "netflixcountries",
 						"file_name": "netflix_countries.csv"
 					},
 					{
-						"folder_name": "netflix_directors",
-						"file_name": "netflix_directors.csv"
+						"folder_name": "netflixdirectors",
+						"file_name": "netflix_diectors.csv"
 					},
 					{
 						"folder_name": "netflix_titles",
-						"file_name": "netflix_titles.csv"
+						"file_name": "netflix_ttles.csv"
 					}
 				]
 			}
