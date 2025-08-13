@@ -8,11 +8,23 @@
 		"NetflixAzureDataLakeStorage_accountKey": {
 			"value": ""
 		},
+		"githubsinkcopy_accountKey": {
+			"value": ""
+		},
+		"githubcopysink_accountKey": {
+			"value": ""
+		},
 		"NetflixAzureDataLakeStorage_properties_typeProperties_url": {
 			"value": "https://netflixprojdlake.dfs.core.windows.net/"
 		},
 		"NetflixHttpServerLS_properties_typeProperties_url": {
 			"value": "https://raw.githubusercontent.com/"
+		},
+		"githubsinkcopy_properties_typeProperties_url": {
+			"value": "https://netflixprojdlake.dfs.core.windows.net/"
+		},
+		"githubcopysink_properties_typeProperties_url": {
+			"value": "https://netflixprojdlake.dfs.core.windows.net/"
 		}
 	}
 }
