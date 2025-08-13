@@ -11,7 +11,6 @@
 			"location": {
 				"type": "AzureBlobFSLocation",
 				"fileName": "netflix_titles.csv",
-				"folderPath": "raw",
 				"fileSystem": "netflixdata"
 			},
 			"columnDelimiter": ",",
