@@ -2,7 +2,7 @@
 	"name": "sinknetflix",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "NetflixAzureDataLakeStorage",
+			"referenceName": "githubsinkcopy",
 			"type": "LinkedServiceReference"
 		},
 		"parameters": {
