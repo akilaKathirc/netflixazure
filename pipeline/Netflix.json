@@ -79,7 +79,13 @@
 							"outputs": [
 								{
 									"referenceName": "Sinkdsgithub",
-									"type": "DatasetReference"
+									"type": "DatasetReference",
+									"parameters": {
+										"foldername": {
+											"value": "@item().folder_name",
+											"type": "Expression"
+										}
+									}
 								}
 							]
 						}
