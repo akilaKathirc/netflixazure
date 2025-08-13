@@ -70,7 +70,7 @@
 									"type": "DatasetReference",
 									"parameters": {
 										"filename": {
-											"value": "@item().folder_name",
+											"value": "@item().file_name",
 											"type": "Expression"
 										}
 									}
@@ -83,6 +83,10 @@
 									"parameters": {
 										"foldername": {
 											"value": "@item().folder_name",
+											"type": "Expression"
+										},
+										"filename": {
+											"value": "@item().file_name",
 											"type": "Expression"
 										}
 									}
