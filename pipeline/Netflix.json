@@ -92,8 +92,6 @@
 			{
 				"name": "ValidationGithub",
 				"type": "Validation",
-				"state": "Inactive",
-				"onInactiveMarkAs": "Succeeded",
 				"dependsOn": [],
 				"userProperties": [],
 				"typeProperties": {
@@ -148,6 +146,11 @@
 						"file_name": "netflix_titles.csv"
 					}
 				]
+			}
+		},
+		"variables": {
+			"github": {
+				"type": "String"
 			}
 		},
 		"annotations": [],
