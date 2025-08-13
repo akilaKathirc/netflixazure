@@ -78,18 +78,8 @@
 							],
 							"outputs": [
 								{
-									"referenceName": "sinknetflix",
-									"type": "DatasetReference",
-									"parameters": {
-										"folderName": {
-											"value": "@item().folder_name",
-											"type": "Expression"
-										},
-										"fileName": {
-											"value": "@item().file_name",
-											"type": "Expression"
-										}
-									}
+									"referenceName": "Sinkdsgithub",
+									"type": "DatasetReference"
 								}
 							]
 						}
